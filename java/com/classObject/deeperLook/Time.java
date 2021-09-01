@@ -1,4 +1,4 @@
-package com.classObject.deeperLook.classCaseStudy;
+package com.classObject.deeperLook;
 
 public class Time {
 
