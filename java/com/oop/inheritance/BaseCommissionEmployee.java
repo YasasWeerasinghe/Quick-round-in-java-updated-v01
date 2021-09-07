@@ -1,4 +1,4 @@
-package cpm.oop.inheritance;
+package com.oop.inheritance;
 
 public class BaseCommissionEmployee extends CommissionEmployee {
 
